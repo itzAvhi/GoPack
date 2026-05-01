@@ -1,3 +1,0 @@
-package compressor
-
-// checking docs
